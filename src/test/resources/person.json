@@ -1,0 +1,11 @@
+{
+  "name": "Sergey",
+  "hasJobOffer": false,
+  "age": "35",
+  "languages": ["english", "russian"],
+  "address": {
+    "city": "Tarkov",
+    "street": "Chekannaya",
+    "building": 12
+  }
+}
